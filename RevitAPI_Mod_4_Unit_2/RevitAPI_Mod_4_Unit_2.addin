@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly> "C:\Program Files\RevitAPITraining\RevitAPI_Mod_4_Unit_2.dll"</Assembly>
+		<AddInId>B17ACD13-34BF-49D2-9BF8-365DE04C09AC</AddInId>
+		<FullClassName>RevitAPI_Mod_4_Unit_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Копирование группы объектов</Text>
+	</AddIn>
+</RevitAddIns>
